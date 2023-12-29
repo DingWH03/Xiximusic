@@ -1,0 +1,2 @@
+# Xiximusic
+一个pyside6开发的网易云音乐第三方客户端，使用了NeteaseCloudMusic_PythonSDK，HFUT Python语言与系统设计课程大作业
